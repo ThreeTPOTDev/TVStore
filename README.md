@@ -1,34 +1,17 @@
-# TVStore (Basic)
+<img width="706" height="166" alt="Android_tv_logo svg" src="https://github.com/user-attachments/assets/d501e770-bdac-4397-93d3-307cc2fb0314" />
 
-An independent, community-run, and open-source app store designed specifically for Android TV and Google TV devices. Built to operate entirely free from reliance on Google Play Services.
+# TVStore 📺
 
-## Features
+An independent, community-run, and open-source app store designed specifically for Android TV and Google TV devices and built to operate entirely free from reliance on Google Play Services.
 
-* **True 10-Foot UI:** Optimized from the ground up for big screens with seamless D-pad remote navigation.
-* **Architecture Agnostic:** Full native support across hardware architectures, including standard ARM and x86_64 systems.
-* **De-Googled & Privacy-Focused:** No Google Play Services or tracking requirements.
-* **Compatibility:** Purpose-built for devices running Android 8.1 (Oreo) up to the latest versions.
-
-## Getting Started
-
-### Prerequisites
-* A device running Android TV / Google TV (OS 8.1+) or an x86_64 Android TV emulation build.
-* "Install from Unknown Sources" enabled for your file manager or browser to install the initial APK.
-
-### Installation
-1. Download the latest release APK from the **Releases** section.
-2. Transfer the APK to your television or streaming box (via USB, local network, or a file transfer app).
-3. Open your device's file manager, locate the APK, and install it.
+## How is it different from the Play Store?
+* It supports from x86 to Snapdragon, and of course, Chromebook CPUs.
+* Google won't track your one mistake on the app: We stripped Google Play Services from the app.
+* Remote Installing: Ever seen that button on the PC website to install on your phone or the mobile app, where you can install to different devices? Yeah, with TVStore, that is also available.
 
 ## Contributing
 
-We welcome contributions from the community! Whether you are squashing bugs, optimizing the Leanback UI, or adding localized translations:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a Pull Request.
+We welcome contributions from the community! Whether you are squashing bugs, optimizing the Leanback UI, or adding localized translations
 
 ## License
 
