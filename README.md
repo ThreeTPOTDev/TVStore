@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28308437/README.md)
+(https://github.com/user-attachments/files/28308437/README.md)
 <img width="706" height="166" alt="Android TV logo" src="https://github.com/user-attachments/assets/d501e770-bdac-4397-93d3-307cc2fb0314" />
 
 # TVStore
